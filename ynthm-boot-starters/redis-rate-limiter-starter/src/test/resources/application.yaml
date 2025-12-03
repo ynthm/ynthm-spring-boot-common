@@ -1,0 +1,14 @@
+spring:
+  redis:
+    host: 192.168.3.179
+    port: 6379
+    password: root
+    database: 1
+    lettuce:
+      pool:
+        enabled: true
+        max-active: 16
+        max-idle: 16
+        max-wait: 5s
+        min-idle: 0
+        time-between-eviction-runs: 1s

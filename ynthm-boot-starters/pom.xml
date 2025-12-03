@@ -19,6 +19,7 @@
         <module>jpush-sb-starter</module>
         <module>minio-spring-boot-starter</module>
         <module>redis-caffeine-cache-starter</module>
+        <module>redis-rate-limiter-starter</module>
         <module>swagger-spring-boot-starter</module>
         <module>w-mybatis-plus-spring-boot-starter</module>
         <module>ynthm-rocketmq-starter</module>
